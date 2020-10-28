@@ -132,7 +132,7 @@ public class Robot extends TimedRobot {
    * - ChiefDelphi (forums)
    * 
    * 
-   * you can contact me at shinyzorua007@gmail.com for any questions
+   * 
    * 
    * 
    * 
